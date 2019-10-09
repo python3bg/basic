@@ -34,8 +34,3 @@ while 1:
 
     pygame.display.flip()
 
-a = 1
-b = 2
-c = 3
-
-d = a+b+c
