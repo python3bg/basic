@@ -13,3 +13,11 @@ print("str(message.count(' '))"+str(message.count(' ')))
 print('with strip'+str(message.strip().count(' ')))
 print('find !' + str(message.find("!")))
 print('replace! to ^:' + message.replace('!', '^'))
+
+ProgLanguage = ' Python Language '
+print(ProgLanguage.title())
+print(ProgLanguage.lower())
+print(ProgLanguage.upper())
+print(ProgLanguage.lstrip())
+print(ProgLanguage.rstrip())
+print(ProgLanguage.strip())
